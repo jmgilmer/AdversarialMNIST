@@ -1,0 +1,6 @@
+*.pyc
+checkpoint
+*.ckpt
+*.gz
+MNIST_data
+saved_models
