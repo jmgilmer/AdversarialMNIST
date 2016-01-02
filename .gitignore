@@ -4,3 +4,5 @@ checkpoint
 *.gz
 MNIST_data
 saved_models
+.ipynb_checkpoints/
+*~
