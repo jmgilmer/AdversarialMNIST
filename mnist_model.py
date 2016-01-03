@@ -1,3 +1,5 @@
+#define a CNN model for MNIST, same model as in the tensorflow tutorial
+
 import tensorflow as tf
 def weight_variable(shape, name):
   initial = tf.truncated_normal(shape, stddev=0.1)
